@@ -109,8 +109,8 @@ StockPrizeForecasting/
 | Model | Accuracy |
 | ----- | -------- |
 | ARIMA | \~80%    |
-| LSTM  | \~91%    |
-| GRU   | \~89%    |
+| LSTM  | \~88%    |
+| GRU   | \~91%    |
 
 ✅ LSTM provided the most accurate results with an **18% improvement** in forecast accuracy over the baseline.
 
