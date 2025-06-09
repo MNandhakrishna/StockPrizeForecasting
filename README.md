@@ -1,5 +1,4 @@
 # StockPrizeForecasting  
-# Asian Paints Stock Price Forecasting
 
 This project aims to forecast the stock prices of Asian Paints using various data analysis and machine learning techniques. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation using ARIMA, LSTM, and GRU models.
 
